@@ -63,10 +63,10 @@ export default {
         color: $unnnic-color-neutral-darkest;
         margin-bottom: $unnnic-spacing-stack-xs;
         padding: $unnnic-inset-nano;
-        font-size: $unnnic-font-size-body-md;
+        font-size: $unnnic-font-size-body-gt;
         font-family: $unnnic-font-family-secondary;
         border-radius: $unnnic-border-radius-sm;
-        line-height: $unnnic-font-size-body-md + $unnnic-line-height-medium;
+        line-height: $unnnic-font-size-body-gt + $unnnic-line-height-medium;
 
         &--active {
             background-color: rgba($unnnic-color-brand-weni, $unnnic-opacity-level-light);
